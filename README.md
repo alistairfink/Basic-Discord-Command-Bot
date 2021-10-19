@@ -17,3 +17,9 @@ Run the following to run the application. If everything went alright the bot sho
 ```
 docker run -d --name discord-command-bot --restart=always discord-command-bot
 ```
+
+## Testing
+Starting:
+```
+node index.js
+```
